@@ -86,6 +86,34 @@ profesor_04.dart
 
 Ejemplo adicional enfocado en reforzar conceptos básicos vistos previamente, mostrando una forma alternativa o guiada de resolver un problema.
 
+20a_factorial.dart
+
+Este ejercicio introduce el cálculo del factorial de un número. Permite comprender cómo realizar multiplicaciones sucesivas utilizando estructuras básicas del lenguaje para obtener el resultado de un número factorial.
+
+20b_factorial.dart
+
+Presenta otra forma de calcular el factorial de un número. Su objetivo es reforzar la lógica del cálculo factorial y mostrar una alternativa de implementación para resolver el mismo problema.
+
+20c_factorial.dart
+
+Muestra una tercera implementación del cálculo factorial. Permite comparar diferentes maneras de resolver el mismo algoritmo y entender mejor cómo funcionan los ciclos o la lógica de repetición en Dart.
+
+21_Sumatoria.dart
+
+Este ejercicio se enfoca en realizar la suma acumulada de una serie de números. Su finalidad es comprender cómo se utilizan los ciclos para repetir operaciones y obtener una sumatoria total.
+
+22_Stack.dart
+
+Introduce la estructura de datos pila (stack). Permite entender cómo funcionan las operaciones básicas como agregar y retirar elementos siguiendo el principio LIFO (Last In, First Out).
+
+23_Queue.dart
+
+Explica la estructura de datos cola (queue). Su objetivo es mostrar cómo se manejan los elementos siguiendo el principio FIFO (First In, First Out) mediante operaciones de inserción y eliminación.
+
+24_TryCatch.dart
+
+Este ejercicio muestra el uso del manejo de errores mediante try-catch. Permite entender cómo prevenir fallos en el programa al capturar excepciones durante la ejecución.
+
 profesor_05.dart
 
 Ejercicio complementario que consolida el uso conjunto de variables, operadores y estructuras de control en un solo programa.
